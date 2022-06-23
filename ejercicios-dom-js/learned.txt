@@ -1,0 +1,9 @@
+Cosas que aprendí:
+
+- Reproducción y pausa de Audio (HTMLMediaElement.play()...)
+- Eventos del teclado (e.key)
+- Obtener tamaño de un elemento y su posición relativa al viewport (element.getBoundingClientRect())
+- Hacer temporizadores
+- Copiar y pegar emojis (emojipedia.com)
+- btn toggle theme -> (arreglarlo y hacer codigo limpio)
+- almacenar datos en el localeStorage
