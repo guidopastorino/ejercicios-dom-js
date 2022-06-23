@@ -7,3 +7,4 @@ Cosas que aprendí:
 - Copiar y pegar emojis (emojipedia.com)
 - btn toggle theme -> (arreglarlo y hacer codigo limpio)
 - almacenar datos en el localeStorage
+- detectar color de tema del Sistema Operativo del usuario con prefers-color-scheme
